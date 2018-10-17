@@ -1,0 +1,1 @@
+# This tool is intended to export all relevant data pertaining to a particular site within your multisite WordPress network in a way that makes importing it into another instance of WordPress, standalone or multisite, without the need for tedius manual edits.
